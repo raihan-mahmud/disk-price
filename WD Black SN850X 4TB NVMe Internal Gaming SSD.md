@@ -1,7 +1,5 @@
 # WD_BLACK SN850X 4TB NVMe Internal Gaming SSD Review
 
-![WD_BLACK SN850X](https://m.media-amazon.com/images/I/71vM7sICNhL._AC_SL1500_.jpg)
-
 ## Introduction
 
 The WD_BLACK SN850X represents Western Digital's flagship NVMe SSD aimed at gamers and performance enthusiasts. The 4TB model (WDS400T2X0E) sits at the top of the capacity range, offering an impressive combination of speed, storage space, and next-generation technology. As someone who has extensively tested high-performance storage solutions, I've put this drive through rigorous testing to see if it lives up to WD's bold claims.
