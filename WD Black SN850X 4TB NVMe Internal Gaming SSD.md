@@ -141,3 +141,7 @@ While not everyone needs this level of performance, those pushing the boundaries
 ---
 
 *If you're looking to purchase this drive, you can find it here: [WD_BLACK SN850X 4TB NVMe Internal Gaming SSD on Amazon](https://amzn.to/43oPNEH)*
+
+---
+
+**Affiliate Disclosure:** As an Amazon Associate I earn from qualifying purchases. This means if you click on the links and make a purchase, I may receive a small commission at no extra cost to you. All opinions remain my own, and I only recommend products I have personally tested and believe provide value to readers.
